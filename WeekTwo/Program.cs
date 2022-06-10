@@ -12,7 +12,6 @@ namespace WeekTwo
             // CallFirstNonRepeating();
             // HashMapTest();
             // BinaryHeapTest();
-            Console.WriteLine(Guid.NewGuid().ToString());
         }
 
         public static void BinaryHeapTest()
